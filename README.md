@@ -22,7 +22,7 @@ The goal of this project is to create a **smart, autonomous surveillance system*
   * Detect vehicles moving in the wrong direction.
   * Detect signal jumping and traffic violations.
   * Identify two-wheeler riders without helmets.
-  * <img src="images/screenshot.png" alt="Architecture" width="400"/>
+  * <img src="images/screenshot.png" alt="Architecture" width="700"/>
 
 
 * **Crime & Hazard Detection**
