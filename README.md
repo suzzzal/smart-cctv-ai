@@ -131,6 +131,4 @@ http://localhost:5000
 * Add **multi-camera support** for city-wide monitoring.
 * Implement **automatic incident prioritization** based on severity.
 * Support **edge deployment** to process feeds locally on CCTV devices.
-* Add **real-time SMS/email notifications** for authorities.
-
-Do you want me to make that version?
+* Add **real-time SMS/email notifications** for authorities
