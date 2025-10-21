@@ -45,7 +45,7 @@ The goal of this project is to create a **smart, autonomous surveillance system*
   * Generate alerts with video snapshots.
   * Include timestamp and exact location (if integrated with GPS-enabled cameras).
 
-* **Dashboard (Optional)**
+* **Dashboard **
 
   * Real-time live feed monitoring.
   * Analytics for incidents detected over time.
