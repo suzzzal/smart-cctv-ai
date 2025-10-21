@@ -62,7 +62,8 @@ In future we will do Frontend Dashboard (optional): React.js, Tailwind CSS
 
 
 ## 🏗️ Architecture & Workflow that we are working on
-![Project Architecture](images/flowchart.png)
+<img src="images/flowchart.png" alt="Architecture" width="600"/>
+
 
 
 1. **Video & Audio Capture**
