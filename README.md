@@ -96,40 +96,7 @@ In future we will do Frontend Dashboard (optional): React.js, Tailwind CSS
 
 ## 💡 Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/multimodal-cctv-ai.git
-cd multimodal-cctv-ai
-```
-
-2. Create a virtual environment:
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux / Mac
-venv\Scripts\activate     # Windows
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the backend server:
-
-```bash
-python backend/app.py
-```
-
-5. Access the dashboard (if implemented):
-
-```text
-http://localhost:5000
-```
-
----
+will add the installation process after the completion
 
 ## 📝 Future Improvements
 
