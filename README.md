@@ -53,11 +53,17 @@ The goal of this project is to create a **smart, autonomous surveillance system*
 
 ## Tech Stack
 Computer Vision: OpenCV, YOLOv8, Detectron2
-Audio Analysis: PyTorch, torchaudio, librosa
+
+Audio Analysis: PyTorch
+
 AI/ML Models: PyTorch, TensorFlow
+
 In future we will do Backend/API: Python, Flask, FastAPI
-In future we will do Database: PostgreSQL / MongoDB (for logs & incident storage)
-In future we will do Realtime Streaming: OpenCV VideoCapture, FFmpeg, WebSockets
+
+In future we will do Database: PostgreSQ
+
+In future we will do Realtime Streaming: OpenCV VideoCapture, FFmpeg
+
 In future we will do Frontend Dashboard (optional): React.js, Tailwind CSS
 
 
