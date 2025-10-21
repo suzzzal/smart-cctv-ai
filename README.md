@@ -1,7 +1,7 @@
 
 # 🛰️ Smart Multimodal AI CCTV Monitoring System
 
-A cutting-edge AI system that monitors live CCTV feeds (video + audio) to detect traffic violations, crimes, civic issues, and emergencies in real-time, and automatically reports them to authorities with evidence.
+A cutting-edge AI system that monitors live CCTV feeds (video + audio) to detect traffic violations, crimes, civic issues, and emergencies in real-time, and automatically reports them to authorities with evidence. 
 
 
 ##  Project Goal
