@@ -125,7 +125,7 @@ class NotificationService:
 Incident Type: {incident_type.replace('_', ' ').title()}
 Sub Type: {sub_type.replace('_', ' ').title()}
 Severity: {severity.upper()}
-Confidence: {confidence:.2%}
+Confidence: {confidence:.5%}
 Location: {location}
 Time: {timestamp_str}
 
