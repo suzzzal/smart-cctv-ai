@@ -18,7 +18,7 @@ from services.notification_service import NotificationService
 from services.video_processor import VideoProcessor
 from auth.auth_handler import AuthHandler
 
-# Initialize FastAPI app
+
 app = FastAPI(
     title="CCTV AI Monitor API",
     description="Multimodal AI system for CCTV monitoring and incident detection",
