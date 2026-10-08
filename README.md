@@ -1,6 +1,6 @@
 # CCTV AI Monitor 🚨
 
-A comprehensive multimodal AI system for real-time CCTV monitoring and incident detection. This system combines computer vision and audio processing to automatically detect traffic violations, crimes, civic issues, and emergencies, then reports them to appropriate authorities.
+A comprehensive multimodel AI system for real-time CCTV monitoring and incident detection. This system combines computer vision and audio processing to automatically detect traffic violations, crimes, civic issues, and emergencies, then reports them to appropriate authorities.
 
 ## 🌟 Features
 
